@@ -14,7 +14,7 @@ A collection of handy shell scripts designed to automate everyday tasks—from c
 - [Scripts](#scripts)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
@@ -85,8 +85,4 @@ For any issues or questions, please open an issue in the [GitHub Issues](https:/
 
 ---
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
